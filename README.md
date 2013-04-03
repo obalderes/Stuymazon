@@ -1,6 +1,7 @@
-Stuymazon
+<b>Stuymazon</b>
 
 Members:
+<br>
 <li>Dexter Tong</li>
 
 
