@@ -14,6 +14,7 @@ Members:
 <li>Nevin Jacob
 <ul>Flask</ul>
 <ul> Database stuff</ul>
+<ul> Maybe some javascript</ul>
 </li>
 
 <li>Olivia Balderes</li>
