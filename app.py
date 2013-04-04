@@ -14,6 +14,10 @@ def home():
 def userpage():
 	pass
 
+@app.route("/settings",methods=["GET","POST"])
+def settings():
+	pass
+
 @app.route("/submit",methods=["GET","POST"])
 def submitItem():
 	pass
