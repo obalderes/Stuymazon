@@ -30,6 +30,10 @@ def search():
 def searchResults():
 	pass
 
+@app.route("/about",methods=["GET","POST"])
+def about():
+	pass
+
 if __name__=="__main__":
     app.debug=True
     db.startup()
