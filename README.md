@@ -28,6 +28,7 @@ Members:
 
 <b>Deadlines:</b>
 <li>Basic templates and login stuff  - April 14th</li>
+<br>
 <li>Most templates done; working sales and bidding - April 21th</li>
 
 Missed:
