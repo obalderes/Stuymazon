@@ -1,8 +1,8 @@
 <b>Stuymazon</b>
 
-We will be making a site for buying and selling items. Users can either put things up for sale or put up offers to purchase things instead. 
+We will be making a site for buying and selling items for Stuyvesant students. Users can either put things up for sale or put up offers to purchase things instead. 
 
-There will be an option to set up exchanges as well, and users can decide on where to meet to complete the trade. 
+There will be an option to set up exchanges as well, and users can use maps to choose where in the school to meet to complete the trade. 
 
 Members:
 <br>
