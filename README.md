@@ -7,9 +7,14 @@ There will be an option to set up exchanges as well, and users can decide on whe
 Members:
 <br>
 <li>Dexter Tong</li>
+<ul>Python</ul>
+<ul>Javascript</ul>
 
 
-<li>Eric Lin</li>
+<li>Eric Lin<- Leader</li>
+<ul>HTML</ul>
+<ul>CSS</ul>
+
 
 <li>Nevin Jacob
 <ul>Flask</ul>
@@ -18,5 +23,14 @@ Members:
 </li>
 
 <li>Olivia Balderes</li>
+<ul>HTML</ul>
+<ul>CSS</ul>
+
+<b>Deadlines:</b>
+<li>Basic templates and login stuff  - April 14th</li>
+<li>Most templates done; working sales and bidding - April 21th</li>
+
+Missed:
+<li>Making deadlines</li>
 
 =========
