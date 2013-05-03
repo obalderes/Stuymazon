@@ -1,6 +1,6 @@
 <b>STUYMAZON</b>
 
-Welcome to STUYMAZON the official buying and selling site for the Stuyvesant community. 
+Welcome to STUYMAZON, the official buying and selling site for the Stuyvesant community. STUYMAZON provides students with an easy to use, extensive mode of exchange for everything from AP review books to sneakers in mint condition. It's unique buying feature allows for users to request items they are interested in buying rather than simply browsing items already for sale.
 
 Users can: 
 <ul> - put items up for sale </ul>
