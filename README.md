@@ -1,10 +1,15 @@
-<b>Stuymazon</b>
+<b>STUYMAZON</b>
 
-Welcome to STUYMAZON the buying and selling site for the Stuyvesant community. 
-Users can choose to either put things up for sale or put up offers to purchase things instead. 
+Welcome to STUYMAZON the official buying and selling site for the Stuyvesant community. 
+Users can: 
+<ul>put items up for sale </ul>
+<ul>bid on items that have been put up for sale </ul>
+<ul>create a post that specifies an item they are interested in buying</ul>
+<ul>respond to an item request </ul>
+<ul>build and expand their STUYMAZON profile </ul>
 
-<--There will be an option to set up exchanges as well, and users can use maps to choose where in the school to meet to complete the trade. 
---!>
+You can access the STUYMAZON website here: 
+
 Members:
 <br>
 <li>Dexter Tong</li>
