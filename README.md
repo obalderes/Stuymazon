@@ -1,12 +1,13 @@
 <b>STUYMAZON</b>
 
 Welcome to STUYMAZON the official buying and selling site for the Stuyvesant community. 
+
 Users can: 
-<ul>put items up for sale </ul>
-<ul>bid on items that have been put up for sale </ul>
-<ul>create a post that specifies an item they are interested in buying</ul>
-<ul>respond to an item request </ul>
-<ul>build and expand their STUYMAZON profile </ul>
+<ul> - put items up for sale </ul>
+<ul> - bid on items that have been put up for sale </ul>
+<ul> - create a post that specifies an item they are interested in buying</ul>
+<ul> - respond to an item request </ul>
+<ul> - build and expand their STUYMAZON profile </ul>
 
 You can access the STUYMAZON website here: 
 
