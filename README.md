@@ -1,9 +1,10 @@
 <b>Stuymazon</b>
 
-We will be making a site for buying and selling items for Stuyvesant students. Users can either put things up for sale or put up offers to purchase things instead. 
+Welcome to STUYMAZON the buying and selling site for the Stuyvesant community. 
+Users can choose to either put things up for sale or put up offers to purchase things instead. 
 
-There will be an option to set up exchanges as well, and users can use maps to choose where in the school to meet to complete the trade. 
-
+<--There will be an option to set up exchanges as well, and users can use maps to choose where in the school to meet to complete the trade. 
+--!>
 Members:
 <br>
 <li>Dexter Tong</li>
@@ -11,16 +12,15 @@ Members:
 <ul>Javascript</ul>
 
 
-<li>Eric Lin<- Leader</li>
+<li>Eric Lin</li>
 <ul>HTML</ul>
 <ul>CSS</ul>
 
 
-<li>Nevin Jacob
+<li>Nevin Jacob <-- Leader </li>
 <ul>Flask</ul>
 <ul> Database stuff</ul>
 <ul> Maybe some javascript</ul>
-</li>
 
 <li>Olivia Balderes</li>
 <ul>HTML</ul>
